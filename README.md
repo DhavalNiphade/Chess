@@ -3,4 +3,4 @@
 
 To run the program, type the following in your command line:
 
-python3 chess.py \<black/white> \<Current Board configuration> \<time-limit>
+python3 chess.py **\<black/white> \<Current Board configuration> \<time-limit>**
